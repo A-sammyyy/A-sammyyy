@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @A-sammyyy
-- 👀 I’m interested in design
-- 🌱 I’m currently learning Product design
-- 💞️ I’m looking to collaborate on Product design projects
-- 📫 How to reach me ayodelesamuel199@gmail.com
+- 👀 I’m interested in Frontend Design and Development
+- 🌱 I’m currently learning Frontend Development
+- 💞️ I’m looking to collaborate on Frontend Design and Development projects
+- 📫 How to reach me ayodelesamuel199@gmail.com https://www.github.com/A-sammyyy
 
 <!---
 A-sammyyy/A-sammyyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
